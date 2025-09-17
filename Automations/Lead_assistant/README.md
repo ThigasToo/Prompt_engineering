@@ -4,6 +4,7 @@ Este projeto implementa um **assistente de leads** utilizando o n8n.
 A automação é capaz de captar novos leads a partir de formulários (ex: Google Forms), armazená-los no **Google Sheets**, e realizar comunicações automáticas tanto para o **lead** quanto para o **organizador**.
 
 ---
+<img width="1919" height="987" alt="Captura de tela 2025-09-17 174513" src="https://github.com/user-attachments/assets/b0e70feb-a17d-4330-8adb-7650db56313d" />
 
 ## 🚀 Funcionalidades
 
